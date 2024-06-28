@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**IrinaChu99/IrinaChu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет👋 Меня зовут Ирина!</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.instagram.com/ira_chubarovaa?igsh=MW84MXY3MGFpdTZqZw%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=FF6699&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
+  </a>
+  <a href="https://t.me/ira_chubarovaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Я начинающий специалист по Data Science. На данный момент работаю в строительной сфере на должности "Ведущий инженер-проетировщик". Мой путь в it начался с образовательных платформ Яндекс Практикум и Stepik, где я начинала с различных вводных курсов, включая "Аналитик данных", "Основы статистики", "Математика для цифровых профессий", "Python для анализа данных" и остановилась на курсе "Специалист по Data Science", который в мае 2024 года успешно закончила. После курса продолжила обучение на образовательной платформе Stepik, на котором укрепила свои знания по SQL. В настоящий момент мое обучение на курсах завершено и я нахожусь в активном поиске работы в сфере it!<br><br>
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+ 
+</div>
+
